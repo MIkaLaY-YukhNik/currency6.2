@@ -55,7 +55,6 @@ public class CurrencyResponse {
         this.rates = rates;
     }
 
-    // Новые геттеры и сеттеры для полей, используемых в тесте
     public String getFrom() {
         return from;
     }
